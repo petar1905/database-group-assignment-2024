@@ -28,11 +28,15 @@ Boyan Vasilev
 
 - [ ] Trigger that forbids creation of trips whose date is different from today (BEFORE INSERT)
 
+- [ ] Trigger that forbids creation of trips whose vehicle is not owned by the driver (BEFORE INSERT)
+
 - [ ] Trigger that forbids updates of comments (BEFORE UPDATE)
 
 - [ ] Trigger that shortens passenger/driver's name (John Smith -> John S., Boyan Vasilev -> Boyan V.) (AFTER UPDATE)
 
-- [ ] Trigger that deletes all of user's trips and comments before deleting the user (BEFORE DELETE)
+- [ ] Trigger that deletes all of user's trips before deleting the user (BEFORE DELETE)
+
+- [ ] Trigger that deletes trip comment before deleting the trip (BEFORE DELETE)
 
 Petar Slavov
 
