@@ -8,19 +8,19 @@ Group assignment for Databases class.
 
 Petar Vladov
 
-- [ ] Passenger Table
+- [X] Passenger Table
 
-- [ ] Driver Table
+- [X] Driver Table
 
-- [ ] Vehicle Table
+- [X] Vehicle Table
 
-- [ ] Trip Table
+- [X] Trip Table
 
-- [ ] Comment Table
+- [X] Comment Table
 
-- [ ] Transaction for creating both a driver and a vehicle
+- [X] Transaction for creating both a driver and a vehicle
 
-- [ ] Transaction for creating a trip and a comment for it
+- [X] Transaction for creating a trip and a comment for it
 
 Boyan Vasilev
 
