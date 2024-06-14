@@ -54,10 +54,10 @@ Petar Slavov
 
 Nikolay Getov
 
-- [ ] Index for searching vehicles by brand, model (in that order)
+- [X] Index for searching vehicles by brand, model (in that order)
 
-- [ ] Index for searching drivers by name (prefix index - first 5 characters)
+- [X] Index for searching drivers by name (prefix index - first 5 characters)
 
-- [ ] Index for searching trips by destination
+- [X] Index for searching trips by destination
 
-- [ ] Index for searching trips by start point
+- [X] Index for searching trips by start point
