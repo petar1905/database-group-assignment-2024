@@ -40,17 +40,17 @@ Boyan Vasilev
 
 Petar Slavov
 
-- [ ] View of info about places (name of place, amount of times as start point and amount of times as destination)
+- [X] View of info about places (name of place, amount of times as start point and amount of times as destination)
 
-- [ ] View of info about vehicles (name of vehicle, date of first trip and date of latest trip)
+- [X] View of info about vehicles (name of vehicle, date of first trip and date of latest trip)
 
-- [ ] View of info about drivers (name of driver, average rating, amount of trips, amount of driven vehicles)
+- [X] View of info about drivers (name of driver, average rating, amount of trips, amount of driven vehicles)
 
-- [ ] Role for passenger (can select drivers, comments)
+- [X] Role for passenger (can select drivers, comments)
 
-- [ ] Role for driver (can create trips)
+- [X] Role for driver (can create trips)
 
-- [ ] Role for moderator (can select comments and delete users)
+- [X] Role for moderator (can select comments and delete users)
 
 Nikolay Getov
 
